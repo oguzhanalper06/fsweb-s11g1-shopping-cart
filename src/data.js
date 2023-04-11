@@ -1,5 +1,6 @@
 export const data = [
   {
+    quantity: +1,
     id: 1,
     title: "The Art Of War",
     price: 10.11,
@@ -7,6 +8,7 @@ export const data = [
       "https://images-na.ssl-images-amazon.com/images/I/41FBMkY3cgL._SX331_BO1,204,203,200_.jpg",
   },
   {
+    quantity: +1,
     id: 2,
     title: "Civilization and Its Discontents",
     price: 14.29,
@@ -14,6 +16,7 @@ export const data = [
       "https://images-na.ssl-images-amazon.com/images/I/51Jj12iMZnL._SX331_BO1,204,203,200_.jpg",
   },
   {
+    quantity: +1,
     id: 3,
     title: "Influence: The Psychology of Persuasion",
     price: 10.98,
@@ -21,6 +24,7 @@ export const data = [
       "https://images-na.ssl-images-amazon.com/images/I/512-B-1yXuL._SX331_BO1,204,203,200_.jpg",
   },
   {
+    quantity: +1,
     id: 4,
     title: "Grokking Algorithms",
     price: 40.0,
